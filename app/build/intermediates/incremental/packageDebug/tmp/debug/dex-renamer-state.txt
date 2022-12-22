@@ -1,0 +1,7 @@
+#Wed Dec 21 17:59:12 GST 2022
+base.0=/Users/tabish/AndroidStudioProjects/CustomizedFoodOrderApp_MAIN/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Users/tabish/AndroidStudioProjects/CustomizedFoodOrderApp_MAIN/app/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex
